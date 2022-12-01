@@ -1,0 +1,13 @@
+[import](common.lg)
+
+# SendActivity_LcJDy9()
+[Activity
+    Text = ${SendActivity_LcJDy9_text()}
+]
+
+# SendActivity_LcJDy9_text()
+- ```Today's menu
+ \- Pizza
+ \- Burger and fries
+ \- Chicken sandwich
+ \-Bitch```
